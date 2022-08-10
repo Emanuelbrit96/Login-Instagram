@@ -2,7 +2,7 @@
 
 ### Descrição do Projeto :+1:
 
-Neste projeto estarei replica a página de login do Instagram. Para isso, estarei usando os conceitos de CSS com Flexbox, que venho aprencendo no curso de FullStack Santander na plataforma da Dio.
+Neste projeto estarei replica a página de login do Instagram. Para isso, estarei usando os conceitos de CSS com Flexbox, que venho aprendendo no curso de FullStack Santander na plataforma da Dio.
 
 ### Etapas
 
